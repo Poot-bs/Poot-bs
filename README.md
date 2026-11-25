@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-banner.svg" alt="Walid El Bassouri — Software Engineer, QA Tester & Founder of DreamWay Consulting and DreamWay" width="100%" />
+  <img src="./assets/hero-banner.svg" alt="Walid El Bassouri — Software Engineer, QA Tester, Founder of DreamWay Consulting & Co-founder of DreamWay" width="100%" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ### 👋 About Me
 
-I'm **Walid El Bassouri** — **Founder of [DreamWay Consulting](https://dreamwayinc.tech) & [DreamWay](https://dreamway.ma)**, and a **Software Engineer & QA Tester** focused on building reliable, scalable products across **Full-Stack Development**, **AI & Automation**, **CRM Systems**, and **Scalable SaaS Solutions**.
+I'm **Walid El Bassouri** — **Founder of [DreamWay Consulting](https://dreamwayinc.tech) and Co-founder of [DreamWay](https://dreamway.ma)**, and a **Software Engineer & QA Tester** focused on building reliable, scalable products across **Full-Stack Development**, **AI & Automation**, **CRM Systems**, and **Scalable SaaS Solutions**.
 
 From leading end-to-end digital ventures and building production client platforms to engineering on-device Edge AI systems, enterprise Java/NestJS backends, interactive 3D web experiences, and automated validation suites, I bridge **product leadership**, **software architecture**, and **quality assurance** so every system ships cleanly and scales with confidence.
 
@@ -34,7 +34,7 @@ From leading end-to-end digital ventures and building production client platform
 
 ---
 
-### 🏆 Founder Spotlight — The DreamWay Ecosystem
+### 🏆 The DreamWay Ecosystem
 
 <table>
   <tr>
@@ -51,7 +51,7 @@ From leading end-to-end digital ventures and building production client platform
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://dreamway.ma">DreamWay Education</a> — <code>dreamway.ma</code></h3>
       <p>
-        <strong>Founder</strong> · <em>Academic Orientation &amp; European Admissions Platform</em>
+        <strong>Co-founder</strong> · <em>Academic Orientation &amp; European Admissions Platform</em>
       </p>
       <p>
         Official student orientation &amp; placement platform guiding Moroccan students toward accredited state universities across Hungary &amp; Europe—featuring program discovery, candidate tracking, and consular guidance (<strong>350+ admitted students</strong> · <strong>98% D-visa success</strong> · <strong>15+ partner state universities</strong>).
@@ -238,5 +238,5 @@ From leading end-to-end digital ventures and building production client platform
 ---
 
 <p align="center">
-  <strong>Founder @ <a href="https://dreamwayinc.tech">DreamWay Consulting</a> &amp; <a href="https://dreamway.ma">DreamWay</a> · Connect on <a href="https://www.linkedin.com/in/walid-el-bassouri-654257273/">LinkedIn</a> · <a href="mailto:walidwalis131@gmail.com">walidwalis131@gmail.com</a></strong>
+  <strong>Founder @ <a href="https://dreamwayinc.tech">DreamWay Consulting</a> · Co-founder @ <a href="https://dreamway.ma">DreamWay</a> · Connect on <a href="https://www.linkedin.com/in/walid-el-bassouri-654257273/">LinkedIn</a> · <a href="mailto:walidwalis131@gmail.com">walidwalis131@gmail.com</a></strong>
 </p>
