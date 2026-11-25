@@ -234,6 +234,12 @@ From leading end-to-end digital ventures and building production client platform
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poot-bs&bg_color=0D1424&color=5EEAD4&line=38BDF8&point=FBBF24&area=true&hide_border=true" alt="Walid El Bassouri Contribution Activity Graph" width="100%" />
 </p>
+<br>
+
+![Snake GIF](https://raw.githubusercontent.com/krifa-med-aziz/krifa-med-aziz/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
 
 ---
 
