@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-label="Walid El Bassouri - Software Engineer, QA Tester &amp; Founder of DreamWay Consulting and DreamWay">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="55%" stop-color="#0C1322"/>
+      <stop offset="100%" stop-color="#0A101D"/>
+    </linearGradient>
+    <radialGradient id="glowTeal" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 90) rotate(28) scale(460 240)">
+      <stop offset="0%" stop-color="#5EEAD4" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#5EEAD4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGold" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 280) rotate(-20) scale(400 220)">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowSky" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 40) rotate(10) scale(360 180)">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.11"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accentLine" x1="48" y1="0" x2="740" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#5EEAD4"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="0.7" stroke-opacity="0.45"/>
+    </pattern>
+    <clipPath id="cardClip">
+      <rect x="2" y="2" width="1196" height="336" rx="18"/>
+    </clipPath>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace; }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.35; }
+      }
+      .pulse-dot { animation: pulse 2.2s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <!-- Background & Ambient Lighting -->
+    <rect x="2" y="2" width="1196" height="336" rx="18" fill="url(#bgGrad)"/>
+    <rect x="2" y="2" width="1196" height="336" rx="18" fill="url(#grid)"/>
+    <rect x="2" y="2" width="1196" height="336" rx="18" fill="url(#glowTeal)"/>
+    <rect x="2" y="2" width="1196" height="336" rx="18" fill="url(#glowSky)"/>
+    <rect x="2" y="2" width="1196" height="336" rx="18" fill="url(#glowGold)"/>
+
+    <!-- Top Status Chrome -->
+    <rect x="2" y="2" width="1196" height="46" fill="#0B111E" fill-opacity="0.75"/>
+    <line x1="2" y1="48" x2="1198" y2="48" stroke="#1E293B" stroke-width="1"/>
+    <circle cx="32" cy="25" r="5" fill="#EF4444" fill-opacity="0.85"/>
+    <circle cx="50" cy="25" r="5" fill="#F59E0B" fill-opacity="0.85"/>
+    <circle cx="68" cy="25" r="5" fill="#10B981" fill-opacity="0.85"/>
+    <text x="90" y="29" class="mono" font-size="12" fill="#64748B" letter-spacing="0.8">POOT-BS // WALID_EL_BASSOURI.PROFILE</text>
+
+    <!-- Top Right Founder Pill -->
+    <rect x="892" y="13" width="268" height="24" rx="12" fill="#0F1F1C" stroke="#134E4A" stroke-width="1"/>
+    <circle cx="910" cy="25" r="4" fill="#10B981" class="pulse-dot"/>
+    <text x="924" y="29" class="mono" font-size="11" font-weight="600" fill="#5EEAD4" letter-spacing="0.6">FOUNDER · DREAMWAY CONSULTING</text>
+
+    <!-- Left Main Identity -->
+    <rect x="48" y="76" width="272" height="26" rx="6" fill="#111C2E" stroke="#1E3A5F" stroke-width="1"/>
+    <text x="64" y="93" class="mono" font-size="11.5" font-weight="600" fill="#38BDF8" letter-spacing="1.1">SOFTWARE ENGINEER &amp; QA TESTER</text>
+
+    <text x="48" y="150" class="sans" font-size="46" font-weight="800" fill="#F8FAFC" letter-spacing="-0.8">Walid El Bassouri</text>
+    <rect x="48" y="164" width="170" height="3" rx="1.5" fill="url(#accentLine)"/>
+
+    <text x="48" y="196" class="sans" font-size="16" font-weight="600" fill="#E2E8F0">
+      Founder @ <tspan fill="#FBBF24">DreamWay Consulting</tspan> (dreamwayInc.tech) &amp; <tspan fill="#FBBF24">DreamWay</tspan> (dreamway.ma)
+    </text>
+
+    <text x="48" y="226" class="sans" font-size="14.5" font-weight="400" fill="#94A3B8">
+      Full-Stack Development  •  AI &amp; Automation  •  CRM Systems  •  Scalable SaaS Solutions
+    </text>
+
+    <!-- Bottom Left Tech Stack Pills -->
+    <g transform="translate(48, 254)">
+      <rect x="0" y="0" width="128" height="30" rx="8" fill="#111827" stroke="#1E293B" stroke-width="1"/>
+      <text x="64" y="19" text-anchor="middle" class="mono" font-size="11.5" fill="#CBD5E1">Next.js · TS</text>
+
+      <rect x="138" y="0" width="136" height="30" rx="8" fill="#111827" stroke="#1E293B" stroke-width="1"/>
+      <text x="206" y="19" text-anchor="middle" class="mono" font-size="11.5" fill="#CBD5E1">Spring Boot</text>
+
+      <rect x="284" y="0" width="136" height="30" rx="8" fill="#111827" stroke="#1E293B" stroke-width="1"/>
+      <text x="352" y="19" text-anchor="middle" class="mono" font-size="11.5" fill="#CBD5E1">NestJS · Node</text>
+
+      <rect x="430" y="0" width="124" height="30" rx="8" fill="#111827" stroke="#1E293B" stroke-width="1"/>
+      <text x="492" y="19" text-anchor="middle" class="mono" font-size="11.5" fill="#CBD5E1">Python · AI</text>
+
+      <rect x="564" y="0" width="130" height="30" rx="8" fill="#111827" stroke="#134E4A" stroke-width="1"/>
+      <text x="629" y="19" text-anchor="middle" class="mono" font-size="11.5" fill="#5EEAD4">QA Testing</text>
+    </g>
+
+    <!-- Right Engineering Snapshot Card -->
+    <rect x="794" y="72" width="366" height="236" rx="14" fill="#0D1424" fill-opacity="0.92" stroke="#1E293B" stroke-width="1.2"/>
+    <text x="818" y="100" class="mono" font-size="11" font-weight="700" fill="#5EEAD4" letter-spacing="1.2">FOUNDER &amp; ENGINEERING</text>
+    <line x1="818" y1="114" x2="1136" y2="114" stroke="#1E293B" stroke-width="1"/>
+
+    <text x="818" y="144" class="mono" font-size="11.5" fill="#64748B">AGENCY</text>
+    <text x="904" y="144" class="sans" font-size="13" font-weight="600" fill="#FBBF24">DreamWay Consulting</text>
+
+    <text x="818" y="176" class="mono" font-size="11.5" fill="#64748B">VENTURE</text>
+    <text x="904" y="176" class="sans" font-size="13" font-weight="600" fill="#FBBF24">DreamWay (dreamway.ma)</text>
+
+    <text x="818" y="208" class="mono" font-size="11.5" fill="#64748B">DOMAINS</text>
+    <text x="904" y="208" class="sans" font-size="13" font-weight="500" fill="#E2E8F0">SaaS · CRM · AI Automation</text>
+
+    <text x="818" y="240" class="mono" font-size="11.5" fill="#64748B">QUALITY</text>
+    <text x="904" y="240" class="sans" font-size="13" font-weight="500" fill="#E2E8F0">QA Testing &amp; Validation Suites</text>
+
+    <text x="818" y="272" class="mono" font-size="11.5" fill="#64748B">GITHUB</text>
+    <text x="904" y="272" class="sans" font-size="13" font-weight="500" fill="#38BDF8">25+ Public Repos · Live Apps</text>
+  </g>
+
+  <!-- Outer Hairline Border -->
+  <rect x="2" y="2" width="1196" height="336" rx="18" stroke="#1E293B" stroke-width="1.5"/>
+</svg>

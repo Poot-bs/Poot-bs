@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="40" viewBox="0 0 218 40" fill="none" role="img" aria-label="DreamWay Consulting">
+  <defs>
+    <linearGradient id="dwBg" x1="0" y1="0" x2="218" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E170A"/>
+      <stop offset="100%" stop-color="#110E08"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="216" height="38" rx="10" fill="url(#dwBg)" stroke="#F59E0B" stroke-opacity="0.65" stroke-width="1.2"/>
+  <g transform="translate(18, 11)">
+    <circle cx="9" cy="9" r="7.5" stroke="#FBBF24" stroke-width="1.5" fill="none"/>
+    <ellipse cx="9" cy="9" rx="3.5" ry="7.5" stroke="#FBBF24" stroke-width="1.3" fill="none"/>
+    <line x1="1.8" y1="9" x2="16.2" y2="9" stroke="#FBBF24" stroke-width="1.3"/>
+  </g>
+  <text x="46" y="24.5" class="sans" font-size="13" font-weight="600" fill="#FEF3C7">DreamWay Consulting</text>
+</svg>
